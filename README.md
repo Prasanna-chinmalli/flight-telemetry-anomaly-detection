@@ -1,5 +1,9 @@
 # ✈️ Flight Telemetry Anomaly Detection System
 
+##  Live Demo
+
+[Open Streamlit App](https://flight-telemetry-anomaly-detection-hvnbw8rampckgvxfijof3t.streamlit.app)
+
 # 📸 Dashboard Preview
 
 ## Main Dashboard
