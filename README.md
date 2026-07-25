@@ -193,6 +193,6 @@ The goal of this project is to demonstrate how Machine Learning can be applied i
 
 # 👨 Author
 
-Prasanna
+Prasanna V Chinmalli
 
 Artificial Intelligence & Machine Learning Engineer
